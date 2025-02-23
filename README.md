@@ -1,1 +1,1 @@
-# NFTGame
+# GameNFT
